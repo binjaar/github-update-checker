@@ -1,19 +1,14 @@
 {
-  "name": "github-update-checker",
-  "description": "Compares project's package.json version and latest GitHub tag version. `uptodate` method returns true (up to date) or false (needs update).",
-  "version": "1.2.0",
-  "author": {
-    "email": "clexit@clexit.com"
+  "name": "typingbaba",
+  "version": "1.0.0",
+  "description": "http://www.typingbaba.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "github",
-    "update",
-    "check",
-    "package.json"
+    "Typing"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/clexit/github-update-checker.git"
-  },
-  "dependencies": {}
+  "author": "Sanjay",
+  "license": "ISC"
 }
