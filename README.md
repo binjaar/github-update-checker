@@ -1,4 +1,5 @@
 #github-update-checker
+[Typing Tools](http://www.typingbaba.com)
 
 Compares project's package.json version and latest GitHub tag version and returns the result.
 
