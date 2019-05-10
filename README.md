@@ -1,1 +1,1 @@
-[Typing Tools](http://www.typingbaba.com)
+[Hindi Typing Tools](http://www.typingbaba.com)
